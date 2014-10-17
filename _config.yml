@@ -1,0 +1,5 @@
+name: AMCJ Architecture
+include: ['fonts']
+markdown: redcarpet
+highlighter: 'pygments'
+encoding: "utf-8"

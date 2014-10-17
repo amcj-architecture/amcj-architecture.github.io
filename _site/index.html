@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>AMCJ Architecture | Projets</title>
+        <meta name="description" content="">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/jquery.colorbox.css">
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class='container'>
+          <header>
+            <nav class="navbar navbar-default" role="navigation">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <a href="/index.html" class="navbar-brand">
+                    <img src='img/logo.png' width='180' />
+                  </a>
+                </div>
+                <div class="collapse navbar-collapse">
+                  <ul class="nav navbar-nav">
+                    
+                      <li class='active'><a href='index.html'>PROJETS</a></li>
+                    
+
+                    
+                      <li><a href='presentation.html'>PRÉSENTATION</a></li>
+                    
+
+                    
+                      <li><a href='contact.html'>CONTACT</a></li>
+                    
+
+                  </ul>
+                  <ul class="nav navbar-nav navbar-right share-buttons">
+                    <li>
+                      <a href="http://fr.pinterest.com/cunyjanvier/" target="_blank">
+                        <i class="fa fa-pinterest-square"></i>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="https://www.facebook.com/pages/AMCJ/520670694706942?ref=hl" target="_blank">
+                        <i class="fa fa-facebook-square"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://plus.google.com/b/102912122805663704594/102912122805663704594/about?hl=fr" target="_blank">
+                        <i class="fa fa-google-plus-square"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </header>
+          <div id="content">
+            <ul class="nav nav-pills" id="projects-filters">
+  <li class="active type-li">
+    <a href="#" class="type-filter" data-filter=".all">Tous</a>
+  </li>
+  <li class="type-li">
+    <a href="#" class="type-filter" data-filter=".outside">Construction</a>
+  </li>
+  <li class="type-li">
+    <a href="#" class="type-filter" data-filter=".inside">Architecture d'intérieur</a>
+  </li>
+  <li class="type-li">
+    <a href="#" class="type-filter" data-filter=".decoration">Décoration</a>
+  </li>
+  <li class="pull-right">
+    <a data-toggle="dropdown" href="#">
+      <i class="fa fa-angle-down"></i>
+      &nbsp;
+      <span class="project-title">Tous les projets</span>
+    </a>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+      <li><a data-filter=".all">Tous les projets</a></li>
+      <li>
+        <a data-filter='.renovation_vue_golfe_du_morbihan'>
+          Rénovation Golfe du Morbihan
+        </a>
+      </li>
+      <li>
+        <a data-filter='.maison_vue_sur_mer_carnac'>
+          Maison vue mer Carnac
+        </a>
+      </li>
+      <li>
+        <a data-filter='.renovation_duplex_trinite_sur_mer'>
+          Rénovation d'un duplex à la Trinité-sur-Mer
+        </a>
+      </li>
+      <li>
+        <a data-filter='.construction_la_trinite_sur_mer'>
+          Construction la Trinité-sur-Mer
+        </a>
+      </li>
+      <li>
+        <a data-filter='.renovation_paris_15'>
+          Rénovation Paris 15
+        </a>
+      </li>
+      <li>
+        <a data-filter='.maison_individuelle_st_philibert'>
+          Maison individuelle à Saint Philibert
+        </a>
+      </li>
+      <li>
+        <a data-filter='.renovation_maison_vannes'>
+          Rénovation d'une maison Vannes
+        </a>
+      </li>
+      <li>
+        <a data-filter='.renovation_paris_8'>
+          Rénovation Paris 8
+        </a>
+      </li>
+      <li>
+        <a data-filter='.extension_trinite_sur_mer'>
+          Extension la Trinité-sur-mer
+        </a>
+      </li>
+      <li>
+        <a data-filter='.maison_plage_trinite_sur_mer'>
+          Maison sur la plage la Trinité-sur-mer
+        </a>
+      </li>
+      <li>
+        <a data-filter='.home_staging_vannes'>
+          Home staging Vannes
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+<br/>
+
+<div id="projects-container" class="clearfix">
+  <div id="projects-loading">
+    <div class="progress">
+      <div class="progress-bar progress-bar-striped active" role="progressbar" style="width: 100%"></div>
+    </div>
+  </div>
+  <a class='project all normal outside renovation_vue_golfe_du_morbihan' href='img/projets/renovation_vue_golfe_du_morbihan_1_hq.jpg' rel="gal" title="Rénovation Golfe du Morbihan (1/4)">
+    <img src='img/projets/renovation_vue_golfe_du_morbihan_1.jpg' alt="Rénovation Golfe du Morbihan (1/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_1_hq.jpg' rel="gal" title="Maison vue mer Carnac (1/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_1.jpg' alt="Maison vue mer Carnac (1/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_duplex_trinite_sur_mer' href='img/projets/renovation_duplex_trinite_sur_mer_1_hq.jpg' rel="gal" title="Rénovation d'un duplex à la Trinité-sur-Mer (1/3)">
+    <img src='img/projets/renovation_duplex_trinite_sur_mer_1.jpg' alt="Rénovation d'un duplex à la Trinité-sur-Mer (1/3)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside construction_la_trinite_sur_mer' href='img/projets/construction_la_trinite_sur_mer_1_hq.jpg' rel="gal" title="Construction la Trinité-sur-Mer (1/2)">
+    <img src='img/projets/construction_la_trinite_sur_mer_1.jpg' alt="Construction la Trinité-sur-Mer (1/2)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_paris_15' href='img/projets/renovation_paris_15_1_hq.jpg' rel="gal" title="Rénovation Paris 15">
+    <img src='img/projets/renovation_paris_15_1.jpg' alt="Rénovation Paris 15" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_1_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (1/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_1.jpg' alt="Maison individuelle à Saint Philibert (1/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_duplex_trinite_sur_mer' href='img/projets/renovation_duplex_trinite_sur_mer_2_hq.jpg' rel="gal" title="Rénovation d'un duplex à la Trinité-sur-Mer (2/3)">
+    <img src='img/projets/renovation_duplex_trinite_sur_mer_2.jpg' alt="Rénovation d'un duplex à la Trinité-sur-Mer (2/3)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all w2 outside renovation_vue_golfe_du_morbihan' href='img/projets/renovation_vue_golfe_du_morbihan_2_hq.jpg' rel="gal" title="Rénovation Golfe du Morbihan (2/4)">
+    <img src='img/projets/renovation_vue_golfe_du_morbihan_2.jpg' alt="Rénovation Golfe du Morbihan (2/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_1_hq.jpg' rel="gal" title="Décoration (2/7)">
+    <img src='img/projets/decoration_1.jpg' alt="Décoration (2/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_2_hq.jpg' rel="gal" title="Maison vue mer Carnac (2/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_2.jpg' alt="Maison vue mer Carnac (2/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_2_hq.jpg' rel="gal" title="Décoration (2/7)">
+    <img src='img/projets/decoration_2.jpg' alt="Décoration (2/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration home_staging_vannes' href='img/projets/home_staging_vannes_1_hq.jpg' rel="gal" title="Home staging Vannes (1/4)">
+    <img src='img/projets/home_staging_vannes_1.jpg' alt="Home staging Vannes (1/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_maison_vannes' href='img/projets/renovation_maison_vannes_1_hq.jpg' rel="gal" title="Rénovation d'une maison Vannes (1/4)">
+    <img src='img/projets/renovation_maison_vannes_1.jpg' alt="Rénovation d'une maison Vannes (1/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_paris_8' href='img/projets/renovation_paris_8_1_hq.jpg' rel="gal" title="Rénovation Paris 8 (1/4)">
+    <img src='img/projets/renovation_paris_8_1.jpg' alt="Rénovation Paris 8 (1/4)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside extension_trinite_sur_mer' href='img/projets/extension_la_trinite_sur_mer_1_hq.jpg' rel="gal" title="Extension la Trinité-sur-mer (1/2)">
+    <img src='img/projets/extension_la_trinite_sur_mer_1.jpg' alt="Extension la Trinité-sur-mer (1/2)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all w2 outside maison_plage_trinite_sur_mer' href='img/projets/maison_plage_trinite_sur_mer_hq.jpg' rel="gal" title="Maison sur la plage la Trinité-sur-mer">
+    <img src='img/projets/maison_plage_trinite_sur_mer.jpg' alt="Maison sur la plage la Trinité-sur-mer" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside renovation_vue_golfe_du_morbihan' href='img/projets/renovation_vue_golfe_du_morbihan_3_hq.jpg' rel="gal" title="Rénovation Golfe du Morbihan (3/4)">
+    <img src='img/projets/renovation_vue_golfe_du_morbihan_3.jpg' alt="Rénovation Golfe du Morbihan (3/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration home_staging_vannes' href='img/projets/home_staging_vannes_2_hq.jpg' rel="gal" title="Home staging Vannes (2/4)">
+    <img src='img/projets/home_staging_vannes_2.jpg' alt="Home staging Vannes (2/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_3_hq.jpg' rel="gal" title="Maison vue mer Carnac (3/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_3.jpg' alt="Maison vue mer Carnac (3/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_duplex_trinite_sur_mer' href='img/projets/renovation_duplex_trinite_sur_mer_3_hq.jpg' rel="gal" title="Rénovation d'un duplex à la Trinité-sur-Mer (3/3)">
+    <img src='img/projets/renovation_duplex_trinite_sur_mer_3.jpg' alt="Rénovation d'un duplex à la Trinité-sur-Mer (3/3)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_2_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (2/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_2.jpg' alt="Maison individuelle à Saint Philibert (2/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_maison_vannes' href='img/projets/renovation_maison_vannes_2_hq.jpg' rel="gal" title="Rénovation d'une maison Vannes (2/4)">
+    <img src='img/projets/renovation_maison_vannes_2.jpg' alt="Rénovation d'une maison Vannes (2/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration home_staging_vannes' href='img/projets/home_staging_vannes_3_hq.jpg' rel="gal" title="Home staging Vannes (3/4)">
+    <img src='img/projets/home_staging_vannes_3.jpg' alt="Home staging Vannes (3/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_4_hq.jpg' rel="gal" title="Maison vue mer Carnac (4/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_4.jpg' alt="Maison vue mer Carnac (4/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_3_hq.jpg' rel="gal" title="Décoration (3/7)">
+    <img src='img/projets/decoration_3.jpg' alt="Décoration (3/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_3_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (3/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_3.jpg' alt="Maison individuelle à Saint Philibert (3/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal outside renovation_vue_golfe_du_morbihan' href='img/projets/renovation_vue_golfe_du_morbihan_4_hq.jpg' rel="gal" title="Rénovation Golfe du Morbihan (4/4)">
+    <img src='img/projets/renovation_vue_golfe_du_morbihan_4.jpg' alt="Rénovation Golfe du Morbihan (4/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_4_hq.jpg' rel="gal" title="Décoration (4/7)">
+    <img src='img/projets/decoration_4.jpg' alt="Décoration (4/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_5_hq.jpg' rel="gal" title="Maison vue mer Carnac (5/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_5.jpg' alt="Maison vue mer Carnac (5/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_paris_8' href='img/projets/renovation_paris_8_2_hq.jpg' rel="gal" title="Rénovation Paris 8 (2/4)">
+    <img src='img/projets/renovation_paris_8_2.jpg' alt="Rénovation Paris 8 (2/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_4_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (4/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_4.jpg' alt="Maison individuelle à Saint Philibert (4/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_paris_8' href='img/projets/renovation_paris_8_3_hq.jpg' rel="gal" title="Rénovation Paris 8 (3/4)">
+    <img src='img/projets/renovation_paris_8_3.jpg' alt="Rénovation Paris 8 (3/4)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_maison_vannes' href='img/projets/renovation_maison_vannes_3_hq.jpg' rel="gal" title="Rénovation d'une maison Vannes (3/4)">
+    <img src='img/projets/renovation_maison_vannes_3.jpg' alt="Rénovation d'une maison Vannes (3/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_6_hq.jpg' rel="gal" title="Maison vue mer Carnac (6/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_6.jpg' alt="Maison vue mer Carnac (6/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside extension_trinite_sur_mer' href='img/projets/extension_la_trinite_sur_mer_2_hq.jpg' rel="gal" title="Extension la Trinité-sur-mer (2/2)">
+    <img src='img/projets/extension_la_trinite_sur_mer_2.jpg' alt"Extension la Trinité-sur-mer (2/2)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_paris_8' href='img/projets/renovation_paris_8_4_hq.jpg' rel="gal" title="Rénovation Paris 8 (4/4)">
+    <img src='img/projets/renovation_paris_8_4.jpg' alt="Rénovation Paris 8 (4/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_vue_sur_mer_carnac' href='img/projets/maison_vue_sur_mer_carnac_7_hq.jpg' rel="gal" title="Maison vue mer Carnac (7/7)">
+    <img src='img/projets/maison_vue_sur_mer_carnac_7.jpg' alt="Maison vue mer Carnac (7/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_5_hq.jpg' rel="gal" title="Décoration (5/7)">
+    <img src='img/projets/decoration_5.jpg' alt="Décoration (5/7)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_5_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (5/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_5.jpg' alt="Maison individuelle à Saint Philibert (5/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside renovation_maison_vannes' href='img/projets/renovation_maison_vannes_4_hq.jpg' rel="gal" title="Rénovation d'une maison Vannes (4/4)">
+    <img src='img/projets/renovation_maison_vannes_4.jpg' alt="Rénovation d'une maison Vannes (4/4)"/>
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_6_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (6/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_6.jpg' alt="Maison individuelle à Saint Philibert (6/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration' href='img/projets/decoration_6_hq.jpg' rel="gal" title="Décoration (6/7)">
+    <img src='img/projets/decoration_6.jpg' alt="Décoration (6/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal inside maison_individuelle_st_philibert' href='img/projets/maison_individuelle_st_philibert_7_hq.jpg' rel="gal" title="Maison individuelle à Saint Philibert (7/7)">
+    <img src='img/projets/maison_individuelle_st_philibert_7.jpg' alt="Maison individuelle à Saint Philibert (7/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+  <a class='project all normal decoration home_staging_vannes' href='img/projets/home_staging_vannes_4_hq.jpg' rel="gal" title="Home staging Vannes (4/4)">
+    <img src='img/projets/home_staging_vannes_4.jpg' alt="Home staging Vannes (4/4)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+
+  <a class='project all normal decoration' href='img/projets/decoration_7_hq.jpg' rel="gal" title="Décoration (7/7)">
+    <img src='img/projets/decoration_7.jpg' alt="Décoration (7/7)" />
+    <div class="img-desc"><h2></h2></div>
+  </a>
+</div>
+
+          </div>
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="js/images-loaded.js"></script>
+        <script src="js/isotope.js"></script>
+        <script src="js/jquery.colorbox.js"></script>
+        <script src="js/application.js"></script>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-46941763-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>
