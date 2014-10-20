@@ -26,6 +26,7 @@ renovation_paris_15:
 maison_individuelle_st_philibert:
   name: Maison individuelle à Saint Philibert
   pictures: 7
+  loc: "Saint Philibert, Morbihan, Bretagne, France"
 
 renovation_maison_vannes:
   name: Rénovation d'une maison Vannes
