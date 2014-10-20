@@ -29,6 +29,13 @@
     
       
       <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/pignon_sur_mer_1_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Pignon sur Mer</image:title>
+      </image:image>
+    
+      
+      <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/renovation_duplex_trinite_sur_mer_1_hq.jpg</image:loc>
         <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Rénovation d'un duplex à la Trinité-sur-Mer</image:title>

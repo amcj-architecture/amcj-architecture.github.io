@@ -1,3 +1,8 @@
+pignon_sur_mer:
+  name: Pignon sur Mer
+  pictures: 1
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
 renovation_vue_golfe_du_morbihan:
   name: Rénovation Golfe du Morbihan
   pictures: 4

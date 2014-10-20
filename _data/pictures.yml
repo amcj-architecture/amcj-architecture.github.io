@@ -6,6 +6,10 @@
   type: inside
   index: 1
   css: normal
+- project: pignon_sur_mer
+  type: outside
+  index: 1
+  css: "w2 hx2"
 - project: renovation_duplex_trinite_sur_mer
   type: inside
   index: 1

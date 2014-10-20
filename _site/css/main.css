@@ -128,14 +128,21 @@ hr{
   background-color: #4996af
 }
 .project{
-  width: 25%;
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
   cursor: zoom-in;
 }
 
+.project.normal{
+  width: 285px;
+  height: 237px;
+}
 .project.w2{
-  width: 50%;
+  width: 570px;
+}
+
+.project.hx2{
+  height: 474px;
 }
 
 .img-desc{
