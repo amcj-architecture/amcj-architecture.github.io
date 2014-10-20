@@ -1,0 +1,58 @@
+renovation_vue_golfe_du_morbihan:
+  name: Rénovation Golfe du Morbihan
+  pictures: 4
+  loc: "Golfe du Morbihan, Bretagne, France"
+
+maison_vue_sur_mer_carnac:
+  name: Maison vue mer Carnac
+  pictures: 7
+  loc: "Carnac, Morbihan, Bretagne, France"
+
+renovation_duplex_trinite_sur_mer:
+  name: Rénovation d'un duplex à la Trinité-sur-Mer
+  pictures: 3
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+construction_la_trinite_sur_mer:
+  name: Construction la Trinité-sur-Mer
+  pictures: 2
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+renovation_paris_15:
+  name: Rénovation Paris 15
+  pictures: 1
+  loc: "Paris, France"
+
+maison_individuelle_st_philibert:
+  name: Maison individuelle à Saint Philibert
+  pictures: 7
+
+renovation_maison_vannes:
+  name: Rénovation d'une maison Vannes
+  pictures: 4
+  loc: "Vannes, Morbihan, Bretagne, France"
+
+renovation_paris_8:
+  name: Rénovation Paris 8
+  pictures: 4
+  loc: "Paris, France"
+
+extension_la_trinite_sur_mer:
+  name: Extension la Trinité-sur-mer
+  pictures: 2
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+maison_plage_trinite_sur_mer:
+  name: Maison sur la plage la Trinité-sur-mer
+  pictures: 1
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+home_staging_vannes:
+  name: Home staging Vannes
+  pictures: 4
+  loc: "Vannes, Morbihan, Bretagne, France"
+
+decoration_project:
+  name: Décoration
+  pictures: 7
+  loc: "Morbihan, Bretagne, France"

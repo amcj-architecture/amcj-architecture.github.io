@@ -1,5 +1,8 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>http://amcj-architecture.com/contact.html</loc>
     <lastmod>2014-10-17T13:34:18+00:00</lastmod>
@@ -11,6 +14,14 @@
     <lastmod>2014-10-17T13:34:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    {% for picture in site.data.pictures %}
+      {% assign project = site.data.projects[picture.project] %}
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/{{picture.project}}_{{picture.index}}_hq.jpg</image:loc>
+        <image:geo_location>{{site.data.projects[picture.project].loc}}</image:geo_location>
+        <image:title>{{site.data.projects[picture.project].name}}</image:title>
+      </image:image>
+    {% endfor %}
   </url>
   <url>
     <loc>http://amcj-architecture.com/presentation.html</loc>
