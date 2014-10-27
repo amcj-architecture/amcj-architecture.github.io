@@ -5,13 +5,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>http://amcj-architecture.com/contact.html</loc>
-    <lastmod>2014-10-17T13:34:18+00:00</lastmod>
+    <lastmod>2014-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://amcj-architecture.com/</loc>
-    <lastmod>2014-10-17T13:34:18+00:00</lastmod>
+    <lastmod>2014-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     {% for picture in site.data.pictures %}
@@ -25,7 +25,7 @@
   </url>
   <url>
     <loc>http://amcj-architecture.com/presentation.html</loc>
-    <lastmod>2014-10-17T13:34:18+00:00</lastmod>
+    <lastmod>2014-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
