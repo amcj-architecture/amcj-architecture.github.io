@@ -1,17 +1,28 @@
-
+- project: renovation_longere_morbihan
+  type: outside
+  index: 1
+  css: normal
 - project: renovation_duplex_trinite_sur_mer
   type: inside
   index: 1
-  css: normal
-- project: extension_la_trinite_sur_mer
-  type: inside
-  index: 2
   css: normal
 - project: pignon_sur_mer
   type: outside
   index: 1
   css: "w2 hx2"
+- project: renovation_ferme_oise
+  type: inside
+  index: 1
+  css: normal
+- project: renovation_ferme_oise
+  type: inside
+  index: 2
+  css: normal
 - project: renovation_duplex_trinite_sur_mer
+  type: inside
+  index: 2
+  css: normal
+- project: extension_la_trinite_sur_mer
   type: inside
   index: 2
   css: normal

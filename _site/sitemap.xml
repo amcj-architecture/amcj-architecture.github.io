@@ -3,28 +3,28 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>http://amcj-architecture.com/contact.html</loc>
-    <lastmod>2014-10-27</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://amcj-architecture.com/</loc>
-    <lastmod>2014-10-27</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/renovation_longere_morbihan_1_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Rénovation d'une longère dans le Morbihan</image:title>
+      </image:image>
     
       
       <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/renovation_duplex_trinite_sur_mer_1_hq.jpg</image:loc>
         <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Rénovation d'un duplex à la Trinité-sur-Mer</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/extension_la_trinite_sur_mer_2_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Extension la Trinité-sur-mer</image:title>
       </image:image>
     
       
@@ -36,9 +36,30 @@
     
       
       <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/renovation_ferme_oise_1_hq.jpg</image:loc>
+        <image:geo_location>Oise, France</image:geo_location>
+        <image:title>Rénovation d'une ferme dans l'Oise</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/renovation_ferme_oise_2_hq.jpg</image:loc>
+        <image:geo_location>Oise, France</image:geo_location>
+        <image:title>Rénovation d'une ferme dans l'Oise</image:title>
+      </image:image>
+    
+      
+      <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/renovation_duplex_trinite_sur_mer_2_hq.jpg</image:loc>
         <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Rénovation d'un duplex à la Trinité-sur-Mer</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/extension_la_trinite_sur_mer_2_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Extension la Trinité-sur-mer</image:title>
       </image:image>
     
       
@@ -219,7 +240,7 @@
   </url>
   <url>
     <loc>http://amcj-architecture.com/presentation.html</loc>
-    <lastmod>2014-10-27</lastmod>
+    <lastmod>2014-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

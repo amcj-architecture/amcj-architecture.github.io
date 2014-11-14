@@ -3,6 +3,16 @@ pignon_sur_mer:
   pictures: 1
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
 
+renovation_longere_morbihan:
+  name: Rénovation d'une longère dans le Morbihan
+  pictures: 1
+  loc: "Morbihan, Bretagne, France"
+
+renovation_ferme_oise:
+  name: Rénovation d'une ferme dans l'Oise
+  pictures: 2
+  loc: "Oise, France"
+
 maison_vue_sur_mer_carnac:
   name: Maison vue mer Carnac
   pictures: 3
