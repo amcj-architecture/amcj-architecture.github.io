@@ -23,6 +23,10 @@ a:hover{
   margin-bottom: 30px;
 }
 
+.navbar-brand img{
+  width: 110px;
+}
+
 .navbar-default .container-fluid, .navbar-default .navbar-collapse{
   padding-left: 0px;
   padding-right: 0px;
@@ -53,7 +57,7 @@ a:hover{
 .navbar-default .share-buttons{
   font-size: 32px;
   margin-bottom: 0px;
-  margin-top: 15px;
+  margin-top: 0px;
 }
 
 .navbar-default .share-buttons > li > a {
@@ -163,7 +167,19 @@ hr{
   float: none;
 }
 
+.share-buttons > li{
+  float: left;
+}
+
 @media (min-width: 768px){
+  .navbar-default .share-buttons{
+    margin-top: 15px;
+  }
+
+  .navbar-brand img{
+    margin-top: 5px;
+    width: 140px;
+  }
   .project.normal{
     width: 25%;
   }
@@ -177,7 +193,7 @@ hr{
   #projects-filters > li{
     float: left;
   }
-    #projects-filters > li:last-child{
+  #projects-filters > li:last-child{
     float: right;
   }
 }
