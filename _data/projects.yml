@@ -15,7 +15,7 @@ renovation_ferme_oise:
 
 maison_vue_sur_mer_carnac:
   name: Maison vue mer Carnac
-  pictures: 3
+  pictures: 2
   loc: "Carnac, Morbihan, Bretagne, France"
 
 renovation_duplex_trinite_sur_mer:

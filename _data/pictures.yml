@@ -62,10 +62,6 @@
   type: inside
   index: 2
   css: normal
-- project: maison_vue_sur_mer_carnac
-  type: inside
-  index: 3
-  css: normal
 - project: construction_la_trinite_sur_mer
   type: outside
   index: 1
