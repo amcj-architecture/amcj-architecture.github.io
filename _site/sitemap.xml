@@ -71,9 +71,30 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/extension_la_trinite_sur_mer_1_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Extension la Trinité-sur-mer</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/materiaux_et_salle_de_bains_1_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Matériaux et salle de bains</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_de_maitre_morbihan_1_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de maître, Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_de_maitre_morbihan_2_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de maître, Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_de_maitre_morbihan_3_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de maître, Morbihan</image:title>
       </image:image>
     
       
@@ -93,20 +114,6 @@
       
       <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_3_hq.jpg</image:loc>
-        <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison individuelle à Saint Philibert</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_4_hq.jpg</image:loc>
-        <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison individuelle à Saint Philibert</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_5_hq.jpg</image:loc>
         <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Maison individuelle à Saint Philibert</image:title>
       </image:image>

@@ -28,6 +28,11 @@ construction_la_trinite_sur_mer:
   pictures: 1
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
 
+maison_de_maitre_morbihan:
+ name: "Maison de maître, Morbihan"
+ pictures: 3
+ loc: "Morbihan, Bretagne, France"
+
 renovation_paris_15:
   name: Rénovation Paris 15
   pictures: 1
@@ -35,7 +40,7 @@ renovation_paris_15:
 
 maison_individuelle_st_philibert:
   name: Maison individuelle à Saint Philibert
-  pictures: 5
+  pictures: 3
   loc: "Saint Philibert, Morbihan, Bretagne, France"
 
 renovation_maison_vannes:
@@ -50,8 +55,13 @@ renovation_paris_8:
 
 extension_la_trinite_sur_mer:
   name: Extension la Trinité-sur-mer
-  pictures: 2
+  pictures: 1
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+materiaux_et_salle_de_bains:
+  name: Matériaux et salle de bains
+  pictures: 1
+  loc: "Morbihan, Bretagne, France"
 
 maison_plage_trinite_sur_mer:
   name: Maison sur la plage la Trinité-sur-mer

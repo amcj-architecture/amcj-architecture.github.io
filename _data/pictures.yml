@@ -30,9 +30,21 @@
   type: inside
   index: 1
   css: normal
-- project: extension_la_trinite_sur_mer
-  type: inside
+- project: materiaux_et_salle_de_bains
+  type: decoration
   index: 1
+  css: normal
+- project: maison_de_maitre_morbihan
+  type: outside
+  index: 1
+  css: normal
+- project: maison_de_maitre_morbihan
+  type: inside
+  index: 2
+  css: normal
+- project: maison_de_maitre_morbihan
+  type: inside
+  index: 3
   css: normal
 - project: maison_individuelle_st_philibert
   type: outside
@@ -43,16 +55,8 @@
   index: 2
   css: normal
 - project: maison_individuelle_st_philibert
-  type: inside
-  index: 3
-  css: normal
-- project: maison_individuelle_st_philibert
-  type: inside
-  index: 4
-  css: normal
-- project: maison_individuelle_st_philibert
   type: decoration
-  index: 5
+  index: 3
   css: normal
 - project: maison_vue_sur_mer_carnac
   type: inside
