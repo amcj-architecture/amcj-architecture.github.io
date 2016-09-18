@@ -1,32 +1,27 @@
 pignon_sur_mer:
-  name: Pignon sur Mer
+  name: "Pignon sur Mer"
   pictures: 1
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
 
 renovation_longere_morbihan:
-  name: Rénovation d'une longère dans le Morbihan
+  name: "Rénovation d'une longère dans le Morbihan"
   pictures: 1
   loc: "Morbihan, Bretagne, France"
 
-renovation_ferme_oise:
-  name: Rénovation d'une ferme dans l'Oise
-  pictures: 2
-  loc: "Oise, France"
+maison_bourg_la_trinite_sur_mer:
+  name: "Maison de bourg"
+  pictures: 6
+  loc: "Morbihan, Bretagne, France"
+
+maison_bord_de_mer_morbihan:
+  name: "Maison de bord de mer Morbihan"
+  pictures: 13
+  loc: "Morbihan, Bretagne, France"
 
 maison_vue_sur_mer_carnac:
-  name: Maison vue mer Carnac
-  pictures: 2
-  loc: "Carnac, Morbihan, Bretagne, France"
-
-renovation_duplex_trinite_sur_mer:
-  name: Rénovation d'un duplex à la Trinité-sur-Mer
-  pictures: 2
-  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
-
-construction_la_trinite_sur_mer:
-  name: Construction la Trinité-sur-Mer
+  name: "Maison vue mer Carnac"
   pictures: 1
-  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+  loc: "Carnac, Morbihan, Bretagne, France"
 
 maison_de_maitre_morbihan:
  name: "Maison de maître, Morbihan"
@@ -34,46 +29,21 @@ maison_de_maitre_morbihan:
  loc: "Morbihan, Bretagne, France"
 
 renovation_paris_15:
-  name: Rénovation Paris 15
+  name: "Rénovation Paris 15"
   pictures: 1
   loc: "Paris, France"
-
-maison_individuelle_st_philibert:
-  name: Maison individuelle à Saint Philibert
-  pictures: 3
-  loc: "Saint Philibert, Morbihan, Bretagne, France"
-
-renovation_maison_vannes:
-  name: Rénovation d'une maison Vannes
-  pictures: 4
-  loc: "Vannes, Morbihan, Bretagne, France"
-
-renovation_paris_8:
-  name: Rénovation Paris 8
-  pictures: 2
-  loc: "Paris, France"
-
-extension_la_trinite_sur_mer:
-  name: Extension la Trinité-sur-mer
-  pictures: 1
-  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
-
-materiaux_et_salle_de_bains:
-  name: Matériaux et salle de bains
-  pictures: 1
-  loc: "Morbihan, Bretagne, France"
 
 maison_plage_trinite_sur_mer:
-  name: Maison sur la plage la Trinité-sur-mer
-  pictures: 1
+  name: "Maison sur la plage la Trinité-sur-mer"
+  pictures: 6
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
 
-home_staging_vannes:
-  name: Home staging Vannes
+villa_armor:
+  name: "Villa Armor"
   pictures: 2
-  loc: "Vannes, Morbihan, Bretagne, France"
+  loc: "Morbihan, Bretagne, France"
 
 decoration_project:
-  name: Décoration
-  pictures: 5
+  name: "Décoration"
+  pictures: 4
   loc: "Morbihan, Bretagne, France"

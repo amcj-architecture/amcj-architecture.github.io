@@ -22,9 +22,9 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_duplex_trinite_sur_mer_1_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'un duplex à la Trinité-sur-Mer</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/renovation_paris_15_1_hq.jpg</image:loc>
+        <image:geo_location>Paris, France</image:geo_location>
+        <image:title>Rénovation Paris 15</image:title>
       </image:image>
     
       
@@ -36,44 +36,142 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_ferme_oise_1_hq.jpg</image:loc>
-        <image:geo_location>Oise, France</image:geo_location>
-        <image:title>Rénovation d'une ferme dans l'Oise</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_ferme_oise_2_hq.jpg</image:loc>
-        <image:geo_location>Oise, France</image:geo_location>
-        <image:title>Rénovation d'une ferme dans l'Oise</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_duplex_trinite_sur_mer_2_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'un duplex à la Trinité-sur-Mer</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/extension_la_trinite_sur_mer_2_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Extension la Trinité-sur-mer</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_paris_15_1_hq.jpg</image:loc>
-        <image:geo_location>Paris, France</image:geo_location>
-        <image:title>Rénovation Paris 15</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/materiaux_et_salle_de_bains_1_hq.jpg</image:loc>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_1_hq.jpg</image:loc>
         <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Matériaux et salle de bains</image:title>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_2_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_3_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_4_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_5_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_la_trinite_sur_mer_6_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bourg</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_1_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_2_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_3_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_4_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_5_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_6_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_7_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_8_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_9_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_10_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_11_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bord_de_mer_morbihan_12_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de bord de mer Morbihan</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/villa_armor_1_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Villa Armor</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/villa_armor_2_hq.jpg</image:loc>
+        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Villa Armor</image:title>
       </image:image>
     
       
@@ -99,44 +197,9 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_1_hq.jpg</image:loc>
-        <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison individuelle à Saint Philibert</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_2_hq.jpg</image:loc>
-        <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison individuelle à Saint Philibert</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_individuelle_st_philibert_3_hq.jpg</image:loc>
-        <image:geo_location>Saint Philibert, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison individuelle à Saint Philibert</image:title>
-      </image:image>
-    
-      
-      <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/maison_vue_sur_mer_carnac_1_hq.jpg</image:loc>
         <image:geo_location>Carnac, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Maison vue mer Carnac</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_vue_sur_mer_carnac_2_hq.jpg</image:loc>
-        <image:geo_location>Carnac, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison vue mer Carnac</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/construction_la_trinite_sur_mer_1_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Construction la Trinité-sur-Mer</image:title>
       </image:image>
     
       
@@ -148,44 +211,37 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_maison_vannes_1_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'une maison Vannes</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_2_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
       </image:image>
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_maison_vannes_2_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'une maison Vannes</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_3_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
       </image:image>
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_maison_vannes_3_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'une maison Vannes</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_4_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
       </image:image>
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_maison_vannes_4_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Rénovation d'une maison Vannes</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_5_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
       </image:image>
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_paris_8_1_hq.jpg</image:loc>
-        <image:geo_location>Paris, France</image:geo_location>
-        <image:title>Rénovation Paris 8</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/renovation_paris_8_2_hq.jpg</image:loc>
-        <image:geo_location>Paris, France</image:geo_location>
-        <image:title>Rénovation Paris 8</image:title>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_6_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
       </image:image>
     
       
@@ -193,20 +249,6 @@
         <image:loc>http://amcj-architecture.com/img/projets/decoration_project_1_hq.jpg</image:loc>
         <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
         <image:title>Décoration</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/home_staging_vannes_2_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Home staging Vannes</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/home_staging_vannes_1_hq.jpg</image:loc>
-        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Home staging Vannes</image:title>
       </image:image>
     
       
@@ -226,13 +268,6 @@
       
       <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/decoration_project_4_hq.jpg</image:loc>
-        <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Décoration</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/decoration_project_5_hq.jpg</image:loc>
         <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
         <image:title>Décoration</image:title>
       </image:image>

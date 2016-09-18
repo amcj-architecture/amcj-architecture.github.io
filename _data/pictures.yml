@@ -2,37 +2,93 @@
   type: outside
   index: 1
   css: normal
-- project: renovation_duplex_trinite_sur_mer
+- project: renovation_paris_15
   type: inside
   index: 1
   css: normal
 - project: pignon_sur_mer
   type: outside
   index: 1
-  css: "w2 hx2"
-- project: renovation_ferme_oise
-  type: inside
+  css: "w2"
+- project: maison_bourg_la_trinite_sur_mer
+  type: outside
   index: 1
   css: normal
-- project: renovation_ferme_oise
-  type: inside
+- project: maison_bourg_la_trinite_sur_mer
+  type: outside
   index: 2
   css: normal
-- project: renovation_duplex_trinite_sur_mer
-  type: inside
-  index: 2
+- project: maison_bourg_la_trinite_sur_mer
+  type: outside
+  index: 3
   css: normal
-- project: extension_la_trinite_sur_mer
+- project: maison_bourg_la_trinite_sur_mer
   type: inside
-  index: 2
+  index: 4
   css: normal
-- project: renovation_paris_15
+- project: maison_bourg_la_trinite_sur_mer
   type: inside
+  index: 5
+  css: normal
+- project: maison_bourg_la_trinite_sur_mer
+  type: inside
+  index: 6
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: outside
   index: 1
   css: normal
-- project: materiaux_et_salle_de_bains
-  type: decoration
+- project: maison_bord_de_mer_morbihan
+  type: outside
+  index: 2
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: outside
+  index: 3
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: outside
+  index: 4
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 5
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 6
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 7
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 8
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: outside
+  index: 9
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 10
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 11
+  css: normal
+- project: maison_bord_de_mer_morbihan
+  type: inside
+  index: 12
+  css: normal
+- project: villa_armor
+  type: outside
   index: 1
+  css: normal
+- project: villa_armor
+  type: outside
+  index: 2
   css: normal
 - project: maison_de_maitre_morbihan
   type: outside
@@ -46,83 +102,47 @@
   type: inside
   index: 3
   css: normal
-- project: maison_individuelle_st_philibert
-  type: outside
-  index: 1
-  css: normal
-- project: maison_individuelle_st_philibert
-  type: decoration
-  index: 2
-  css: normal
-- project: maison_individuelle_st_philibert
-  type: decoration
-  index: 3
-  css: normal
 - project: maison_vue_sur_mer_carnac
   type: inside
-  index: 1
-  css: normal
-- project: maison_vue_sur_mer_carnac
-  type: inside
-  index: 2
-  css: normal
-- project: construction_la_trinite_sur_mer
-  type: outside
   index: 1
   css: normal
 - project: maison_plage_trinite_sur_mer
+  type: inside
+  index: 1
+  css: normal
+- project: maison_plage_trinite_sur_mer
+  type: inside
+  index: 2
+  css: normal
+- project: maison_plage_trinite_sur_mer
+  type: inside
+  index: 3
+  css: normal
+- project: maison_plage_trinite_sur_mer
   type: outside
-  index: 1
-  css: w2
-- project: renovation_maison_vannes
-  type: inside
-  index: 1
-  css: normal
-- project: renovation_maison_vannes
-  type: inside
-  index: 2
-  css: normal
-- project: renovation_maison_vannes
-  type: inside
-  index: 3
-  css: normal
-- project: renovation_maison_vannes
-  type: inside
   index: 4
   css: normal
-- project: renovation_paris_8
-  type: inside
-  index: 1
-  css: normal
-- project: renovation_paris_8
-  type: inside
-  index: 2
-  css: normal
-- project: decoration_project
-  type: decoration
-  index: 1
-  css: normal
-- project: home_staging_vannes
-  type: decoration
-  index: 2
-  css: normal
-- project: home_staging_vannes
-  type: decoration
-  index: 1
-  css: "normal hx2"
-- project: decoration_project
-  type: decoration
-  index: 2
-  css: normal
-- project: decoration_project
-  type: decoration
-  index: 3
-  css: normal
-- project: decoration_project
-  type: decoration
-  index: 4
-  css: normal
-- project: decoration_project
-  type: decoration
+- project: maison_plage_trinite_sur_mer
+  type: outside
   index: 5
+  css: normal
+- project: maison_plage_trinite_sur_mer
+  type: outside
+  index: 6
+  css: normal
+- project: decoration_project
+  type: decoration
+  index: 1
+  css: normal
+- project: decoration_project
+  type: decoration
+  index: 2
+  css: normal
+- project: decoration_project
+  type: decoration
+  index: 3
+  css: normal
+- project: decoration_project
+  type: decoration
+  index: 4
   css: normal
