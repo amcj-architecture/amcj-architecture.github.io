@@ -1,5 +1,5 @@
 name: AMCJ Architecture
 include: ['fonts']
 markdown: redcarpet
-highlighter: 'pygments'
+highlighter: 'rouge'
 encoding: "utf-8"
