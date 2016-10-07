@@ -239,13 +239,6 @@
     
       
       <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/maison_plage_trinite_sur_mer_6_hq.jpg</image:loc>
-        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Maison sur la plage la Trinité-sur-mer</image:title>
-      </image:image>
-    
-      
-      <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/decoration_project_1_hq.jpg</image:loc>
         <image:geo_location>Morbihan, Bretagne, France</image:geo_location>
         <image:title>Décoration</image:title>

@@ -109,7 +109,7 @@
 - project: maison_plage_trinite_sur_mer
   type: inside
   index: 1
-  css: normal
+  css: w2
 - project: maison_plage_trinite_sur_mer
   type: inside
   index: 2
@@ -125,10 +125,6 @@
 - project: maison_plage_trinite_sur_mer
   type: outside
   index: 5
-  css: normal
-- project: maison_plage_trinite_sur_mer
-  type: outside
-  index: 6
   css: normal
 - project: decoration_project
   type: decoration
