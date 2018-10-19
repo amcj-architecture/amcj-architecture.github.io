@@ -136,6 +136,7 @@ hr{
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
   cursor: zoom-in;
+  padding: 3px;
 }
 
 .project.normal{

@@ -3,15 +3,323 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>http://amcj-architecture.com/contact.html</loc>
-    <lastmod>2014-11-14</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://amcj-architecture.com/</loc>
-    <lastmod>2014-11-14</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_1_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_2_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_3_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_4_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_5_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_6_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_7_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_8_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_9_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_10_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_11_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_12_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_13_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_14_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_15_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_16_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_17_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_capitaine_18_hq.jpg</image:loc>
+        <image:geo_location>Trinité Sur Mer, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Capitaine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_1_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_2_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_3_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_4_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_5_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_6_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_7_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_8_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_9_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_bourg_arradon_10_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison de Bourg, Arradon</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_1_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_2_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_3_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_4_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_5_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_6_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_7_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/maison_vannes_8_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Maison Vannes-Madeleine</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_1_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_2_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_3_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_4_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_5_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_1_hq.jpg</image:loc>
+        <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Côte sauvage</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_2_hq.jpg</image:loc>
+        <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Côte sauvage</image:title>
+      </image:image>
+    
+      
+      <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_3_hq.jpg</image:loc>
+        <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Côte sauvage</image:title>
+      </image:image>
     
       
       <image:image>
@@ -268,7 +576,7 @@
   </url>
   <url>
     <loc>http://amcj-architecture.com/presentation.html</loc>
-    <lastmod>2014-11-14</lastmod>
+    <lastmod>2018-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

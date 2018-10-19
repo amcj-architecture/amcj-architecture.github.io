@@ -1,3 +1,28 @@
+maison_capitaine:
+  name: "Maison de Capitaine"
+  pictures: 18
+  loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
+
+maison_vannes:
+  name: "Maison Vannes-Madeleine"
+  pictures: 8
+  loc: "Vannes, Morbihan, Bretagne, France"
+
+maison_bourg_arradon:
+  name: "Maison de Bourg, Arradon"
+  pictures: 10
+  loc: "Vannes, Morbihan, Bretagne, France"
+
+le_moulin:
+  name: "Le moulin"
+  pictures: 5
+  loc: "Vannes, Morbihan, Bretagne, France"
+
+cote_sauvage:
+  name: "Côte sauvage"
+  pictures: 3
+  loc: "Quiberon, Morbihan, Bretagne, France"
+
 pignon_sur_mer:
   name: "Pignon sur Mer"
   pictures: 1
