@@ -162,6 +162,10 @@
   type: inside
   index: 5
   css: normal
+- project: le_moulin
+  type: inside
+  index: 6
+  css: normal
 - project: cote_sauvage
   type: inside
   index: 1
@@ -169,10 +173,6 @@
 - project: cote_sauvage
   type: outside
   index: 2
-  css: normal
-- project: cote_sauvage
-  type: outside
-  index: 3
   css: normal
 - project: renovation_longere_morbihan
   type: outside

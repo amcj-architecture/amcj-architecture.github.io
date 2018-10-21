@@ -302,6 +302,13 @@
     
       
       <image:image>
+        <image:loc>http://amcj-architecture.com/img/projets/le_moulin_6_hq.jpg</image:loc>
+        <image:geo_location>Vannes, Morbihan, Bretagne, France</image:geo_location>
+        <image:title>Le moulin</image:title>
+      </image:image>
+    
+      
+      <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_1_hq.jpg</image:loc>
         <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Côte sauvage</image:title>
@@ -310,13 +317,6 @@
       
       <image:image>
         <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_2_hq.jpg</image:loc>
-        <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
-        <image:title>Côte sauvage</image:title>
-      </image:image>
-    
-      
-      <image:image>
-        <image:loc>http://amcj-architecture.com/img/projets/cote_sauvage_3_hq.jpg</image:loc>
         <image:geo_location>Quiberon, Morbihan, Bretagne, France</image:geo_location>
         <image:title>Côte sauvage</image:title>
       </image:image>

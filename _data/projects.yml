@@ -15,12 +15,12 @@ maison_bourg_arradon:
 
 le_moulin:
   name: "Le moulin"
-  pictures: 5
+  pictures: 6
   loc: "Vannes, Morbihan, Bretagne, France"
 
 cote_sauvage:
   name: "Côte sauvage"
-  pictures: 3
+  pictures: 2
   loc: "Quiberon, Morbihan, Bretagne, France"
 
 pignon_sur_mer:
