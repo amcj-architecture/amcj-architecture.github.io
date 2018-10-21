@@ -20,7 +20,7 @@ $(document).ready(function(){
     $('.project').hover(function() {
       var $imgDesc = $(this).find('.img-desc'),
           $h2 = $imgDesc.find('h2'),
-          marginTop = ($imgDesc.height() / 2 - 18);
+          marginTop = ($imgDesc.height() / 2 - 10);
 
       $h2.css('margin-top', marginTop+'px');
       $h2.html($(this).prop('title'))
