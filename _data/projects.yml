@@ -1,6 +1,6 @@
 maison_capitaine:
   name: "Maison de Capitaine"
-  pictures: 18
+  pictures: 19
   loc: "Trinité Sur Mer, Morbihan, Bretagne, France"
 
 maison_vannes:
@@ -49,9 +49,9 @@ maison_vue_sur_mer_carnac:
   loc: "Carnac, Morbihan, Bretagne, France"
 
 maison_de_maitre_morbihan:
- name: "Maison de maître, Morbihan"
- pictures: 3
- loc: "Morbihan, Bretagne, France"
+  name: "Maison de maître, Morbihan"
+  pictures: 3
+  loc: "Morbihan, Bretagne, France"
 
 renovation_paris_15:
   name: "Rénovation Paris 15"
@@ -71,4 +71,9 @@ villa_armor:
 decoration_project:
   name: "Décoration"
   pictures: 4
+  loc: "Morbihan, Bretagne, France"
+
+pieds_dans_l_eau:
+  name: "Pieds dans l'eau"
+  pictures: 16
   loc: "Morbihan, Bretagne, France"
