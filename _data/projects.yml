@@ -1,3 +1,13 @@
+maison_bord_de_mer_quiberon:
+  name: "Maison bord de mer Quiberon"
+  pictures: 21
+  loc: "Quiberon, Morbihan, Bretagne, France"
+
+manoir:
+  name: "Manoir"
+  pictures: 3
+  loc: "Vannes, Morbihan, Bretagne, France"
+
 maison_capitaine:
   name: "Maison de Capitaine"
   pictures: 19
@@ -77,3 +87,4 @@ pieds_dans_l_eau:
   name: "Pieds dans l'eau"
   pictures: 16
   loc: "Morbihan, Bretagne, France"
+
