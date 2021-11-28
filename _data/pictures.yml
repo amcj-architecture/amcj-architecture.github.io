@@ -82,7 +82,6 @@
   type: decoration
   index: 21
   css: normal
-
 - project: manoir
   type: outside
   index: 1
