@@ -24,7 +24,7 @@ a:hover{
 }
 
 .navbar-brand img{
-  width: 110px;
+  width: 200px;
 }
 
 .navbar-default .container-fluid, .navbar-default .navbar-collapse{
@@ -178,9 +178,12 @@ hr{
     margin-top: 15px;
   }
 
+  .navbar-header{
+    margin: 13px;
+  }
+
   .navbar-brand img{
-    margin-top: 5px;
-    width: 140px;
+    width: 200px;
   }
   .project.normal{
     width: 25%;
